@@ -1,8 +1,6 @@
-## pug-seed
-===
+# pug-seed
 
-**创建 pug seed 用于编写 demo**
+**基于 pug 模板的 MPA 种子工程**
 
----
+## 
 
-范例参考 : [pug-loader](https://github.com/jantimon/html-webpack-plugin/tree/master/examples/pug-loader)
